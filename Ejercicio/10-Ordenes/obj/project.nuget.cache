@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cpeDdahyWQ5g2D4DqUM9eWA8bLa+qCNsB94KaE0UEPjVdKalQQ75SBUoL77YTGWzCIU7EREqzN1lIQU1p13pJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaime\\Desktop\\ll PAC 2021- Jaime Toledo\\L2\\c-sharp-main\\Ejercicios\\10-Ordenes\\10-Ordenes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaime\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jaime\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\jaime\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\jaime\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
